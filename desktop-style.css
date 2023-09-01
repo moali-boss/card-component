@@ -1,0 +1,18 @@
+.card {
+    width: 30%;
+    flex-direction: row;
+    align-self: center;
+    justify-self: center;
+}
+
+.card-image {
+    flex: 1;
+    height: auto;
+    background-image: url(/images/image-product-desktop.jpg);
+    background-position: center;
+    border-radius: 7px 0 0 7px;
+}
+
+.card-info {
+    flex: 1;
+}
